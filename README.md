@@ -3,7 +3,7 @@
 > Something I have been working on as a project for a course that I took. Will be a good example to start with Firebase, Paperonboarding , SwiftIcons and if you planning to build a Chat Application.This is just a skeleton, and uses mock API's for most parts. You will still want a App Server to serve as your messaging backend. A complete tutorial for the same could be found on Firebase website.
 
 
-A Anonymous chat App using Firebase- Remote DB , Cloud messaaging, Remote Config, Invites, Alamofire, SwiftIcons,SwiftJSON, Paper Onbarding
+A Anonymous chat App using Firebase- Remote DB, Cloud messaaging, Remote Config, Invites, Alamofire, SwiftIcons, SwiftJSON, Paper Onbarding
 
 
 ![alt text](https://preview.ibb.co/bSnv6x/Artboard.png "App Screenshots")
